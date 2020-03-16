@@ -1,0 +1,5 @@
+{
+  "exec": "pipenv run python csv_publish/main.py", 
+  "watch": "notebook/**/*", 
+  "ext": "py"
+}

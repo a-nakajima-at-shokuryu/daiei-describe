@@ -1,0 +1,11 @@
+node_modules/
+build/
+yarn.lock*
+Pipfile.lock*
+.vscode/
+vscode.bat
+__pycache__
+
+.zip/
+csv/*.csv
+transpose.csv
