@@ -7,6 +7,6 @@
     "nodemon": "^2.0.2"
   }, 
   "scripts": {
-    "py:dev": "nodemon --config py.nodemon.json"
+    "py:dev": "nodemon --config nodemon.py.json"
   }
 }

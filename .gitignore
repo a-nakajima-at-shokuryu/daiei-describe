@@ -9,3 +9,5 @@ __pycache__
 .zip/
 csv/*.csv
 transpose.csv
+
+test.ipynb
