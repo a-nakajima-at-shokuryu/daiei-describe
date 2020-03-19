@@ -12,6 +12,9 @@ numpy = "*"
 pyodbc = "*"
 pymysql = "*"
 python-dateutil = "*"
+xlrd = "*"
+japanese-numbers-python = "*"
+jaconv = "*"
 
 [requires]
 python_version = "3.8"
