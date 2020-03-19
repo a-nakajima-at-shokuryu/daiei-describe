@@ -8,6 +8,7 @@ __pycache__
 
 .zip/
 csv/*.csv
+csv.zip
 transpose.csv
 
 test.ipynb
